@@ -1,0 +1,15 @@
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/bin/Debug/net6.0/KFujimuraAskingQuestions
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/bin/Debug/net6.0/KFujimuraAskingQuestions.deps.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/bin/Debug/net6.0/KFujimuraAskingQuestions.runtimeconfig.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/bin/Debug/net6.0/KFujimuraAskingQuestions.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/bin/Debug/net6.0/KFujimuraAskingQuestions.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.csproj.AssemblyReference.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.AssemblyInfoInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.AssemblyInfo.cs
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.csproj.CoreCompileInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/refint/KFujimuraAskingQuestions.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/KFujimuraAskingQuestions.genruntimeconfig.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraAskingQuestions/obj/Debug/net6.0/ref/KFujimuraAskingQuestions.dll
