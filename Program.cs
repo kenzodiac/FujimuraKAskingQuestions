@@ -1,6 +1,6 @@
 ﻿//Kenneth Fujimura
 //10-18-2022
-//Mini Challenge # 3 - Asking Questions
+//GitHub Challenge # 3 - Asking Questions
 //Console program greets the user, asks the user two questions, stores those answers as strings, and then display the answers in a single sentence back to the user.
 //Peer Review by:
 
